@@ -1,0 +1,9 @@
+#noForm{
+    display: inline-block;
+    float: left;
+}
+
+#yesForm{
+    display: inline-block;
+    float: right;
+}
